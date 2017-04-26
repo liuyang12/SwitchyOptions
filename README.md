@@ -9,7 +9,7 @@ There two principal advantages applying the AutoProxy mode,
 ## How to use
 If you are using SwitchyOmega, you can simply add this link to your online backup address.
 
-``https://github.com/liuyang12/SwitchyOptions/blob/master/OmegaOptions.bak``
+``https://raw.githubusercontent.com/liuyang12/SwitchyOptions/master/OmegaOptions.bak``
 
 ## Term of use
 This backup file is for personal academic use only. Note that the AutoProxy configuration contains personal preference of some websites, such as [Baidu](https://www.baidu.com/ "Baidu"), [TED](https://www.ted.com/ "TED"). Alternatively, you can adapt all this configurations in AutoProxy mode to your preference.
