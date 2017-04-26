@@ -13,3 +13,5 @@ If you are using SwitchyOmega, you can simply add this link to your online backu
 
 ## Term of use
 This backup file is for personal academic use only. Note that the AutoProxy configuration contains personal preference of some websites, such as [Baidu](https://www.baidu.com/ "Baidu"), [TED](https://www.ted.com/ "TED"). Alternatively, you can adapt all this configurations in AutoProxy mode to your preference.
+## Notes of use
+The SwitchyOmega has its own synchronization option in beta, unfortunately the size of the synchronized file is limited to seveal kilobytes which prevents the users from synchronizing a relative large configuration file. The other door open for this issue is the online backup option. Enjoy your surfing and academic reading!
