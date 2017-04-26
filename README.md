@@ -7,7 +7,8 @@ There two principal advantages applying the AutoProxy mode,
 1. save your data consumption via IPv4 connections, for the education network users can set the web proxy tool, such as [GoAgent](https://github.com/goagent/goagent "GoAgent") and its alternatives [XX-Net](https://github.com/XX-net/XX-Net "XX-Net"), [goaproxy](https://github.com/phuslu/goproxy "goproxy") with IPv6 connnections.
 2. direct access to academic websites with IP authority from your university library.
 ## How to use
-If you are using SwitchyOmega, you can simply add this link to your online backup address
+If you are using SwitchyOmega, you can simply add this link to your online backup address.
+
 ``https://github.com/liuyang12/SwitchyOptions/blob/master/OmegaOptions.bak``
 
 ## Term of use
